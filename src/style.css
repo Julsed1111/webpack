@@ -1,0 +1,11 @@
+.usersTitle tr, .usersContent tr{
+    display: flex;
+}
+
+.usersTitle td, .usersContent td{
+    border: 1px black solid;
+    padding: 10px;
+    width: 160px;
+    text-align: center;
+    font-size: 14px;
+}
